@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+div {
+    background-color: pink;
+    text-align: center;
+    border:1px  solid black ;
+}
+.pad{
+    padding: 20px;  
+}
+.para{
+   min-height: 500px;
+    background-color: lightgrey;
+    text-align: left;
+    color: green;
+    font-weight: bold;
+
+
+}
+.layout{
+    background-color: lightsalmon;
+    padding: 20px;
+}
+.blockquote{
+    color: purple;
+}
