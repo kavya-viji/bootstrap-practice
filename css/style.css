@@ -1,22 +1,29 @@
 body{
     background-color: lightblue;
+    cursor:pointer;
 }
+
 div {
     background-color: pink;
     text-align: center;
     border:1px  solid black ;
 }
 .pad{
-    padding: 20px;  
+    padding: 10px;  
 }
 .para{
-   min-height: 500px;
+    min-height: 500px;
     background-color: lightgrey;
     text-align: left;
-    color: green;
+    color: rgb(83, 125, 160);
     font-weight: bold;
-
-
+}
+.paras{
+    min-height: 300px;
+    background-color: lightcyan;
+    text-align: left;
+    color: rgb(83, 125, 160);
+    font-weight: bold;
 }
 .layout{
     background-color: lightsalmon;
